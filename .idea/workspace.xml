@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dbac860-a641-4303-a3e5-5e6eb4d07641" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Data Structure and Algorithem by college wala" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ddBHwb1KzBH65Zmx67GZhkMGaF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArrayImplementationOfStack.executor": "Run",
+    "Application.ArrayReverse.executor": "Run",
+    "Application.ArrayToStream.executor": "Run",
+    "Application.Coolection.executor": "Run",
+    "Application.Empolyee.executor": "Run",
+    "Application.FactorialOfNumber.executor": "Run",
+    "Application.HashMapImplemetation.executor": "Run",
+    "Application.HashSetDemo.executor": "Run",
+    "Application.HashingCollision.executor": "Run",
+    "Application.IsNumberIsPrime.executor": "Run",
+    "Application.LLlist.executor": "Run",
+    "Application.ListL.executor": "Run",
+    "Application.MapDemo.executor": "Run",
+    "Application.MostFrequentCharacterByMap.executor": "Run",
+    "Application.PushArray.executor": "Run",
+    "Application.RemoveConsequtive.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.ShotArrayBasedOnLength.executor": "Run",
+    "Application.ShotingOfArray.executor": "Run",
+    "Application.SortingOfArray.executor": "Run",
+    "Application.StackDemo.executor": "Run",
+    "Application.StreamApi.executor": "Run",
+    "Application.StreamApiUse.executor": "Run",
+    "Application.SureRootOfNumber.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.ThreadRunnableInterface.executor": "Run",
+    "Application.TotalNoOfFailedStudent.executor": "Run",
+    "Application.ValidAnagramWithHashMap.executor": "Run",
+    "Application.isNumberIsEven.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Program Files/linkedlist",
+    "onboarding.tips.debug.path": "D:/Data Structure and Algorithem by college wala/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ValidAnagramWithHashMap">
+    <configuration name="HashMapImplemetation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapImplemetation" />
+      <module name="linkedlist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashingCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashingCollision" />
+      <module name="linkedlist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostFrequentCharacterByMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MostFrequentCharacterByMap" />
+      <module name="linkedlist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveConsequtive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveConsequtive" />
+      <module name="linkedlist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagramWithHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidAnagramWithHashMap" />
+      <module name="linkedlist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidAnagramWithHashMap" />
+        <item itemvalue="Application.HashingCollision" />
+        <item itemvalue="Application.MostFrequentCharacterByMap" />
+        <item itemvalue="Application.HashMapImplemetation" />
+        <item itemvalue="Application.RemoveConsequtive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dbac860-a641-4303-a3e5-5e6eb4d07641" name="Changes" comment="" />
+      <created>1710327994704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710327994704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Data Structure and Algorithem by college wala/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
